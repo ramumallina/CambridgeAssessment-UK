@@ -1,10 +1,4 @@
-Hello Anasuya
-
-I Love You::::
-
-
-Hi Anu, you are so sexy...
-
-
-Hi Darling, what are you doing?
-
+class Anasuya{
+	int a=10;
+	int b=20;
+}
